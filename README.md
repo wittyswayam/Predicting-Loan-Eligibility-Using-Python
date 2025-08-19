@@ -66,7 +66,3 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
 Tools: Jupyter Notebook
 
-This will render the image centered on the page, with a width of 200 pixels and an alternate text description of "ML Icon." It will look visually centered and sized as intended, adding a professional, visual element to your README.
-
-So in your README, it appears as a nicely centered icon image at the top or wherever you place the code block. This adds visual appeal and clearly indicates your project’s machine learning focus.
-
